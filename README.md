@@ -14,6 +14,7 @@
 <p>--><a href="https://webpack.js.org/guides/development/" target="_blank" rel="noreferrer noopener">Desenvolvimento</a></p>
 <h3>Comando utilizados</h3>
 <ol>
+  <li>npm install --save-dev html-webpack-plugin</li>
   <li>npm install --save-dev webpack-dev-server</li>
 <li>npm install --save-dev express webpack-dev-middleware</li>
 <li>npm run server</li>
