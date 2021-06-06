@@ -1,6 +1,7 @@
 # learn-webpack02
 <p>Construindo servidor de desenvolvimento com webpack</p>
-<ul><li>Preparação</li>
+<ul>
+<li>Preparação</li>
 <li>Configurando HtmlWebpackPlugin</li>
 <li>Limpando a pasta /dist</li>
 <li> Usando source maps </li>
@@ -19,5 +20,5 @@
 </ol>
 <p> Após configuração acesse localhost:5000</p>
 <h3>Referências:</h3>
-<p>--><a href="https://webpack.js.org/guides/output-management/" target="_blank" rel="noreferrer noopener">Gerenciamento</a></p>
-<p>--><a href="https://webpack.js.org/guides/development/" target="_blank" rel="noreferrer noopener">Desenvolvimento</a></p>
+<p>--><a href="https://webpack.js.org/guides/output-management/" target="_blank">Gerenciamento</a></p>
+<p>--><a href="https://webpack.js.org/guides/development/" target="_blank">Desenvolvimento</a></p>
