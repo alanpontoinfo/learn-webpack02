@@ -18,6 +18,6 @@
 <li>npm run server</li>
 </ol>
 <p> Após configuração acesse http://localhost:5000
-<h3>Referencia:</h3>
+<h3>Referências:</h3>
 <p>--><a href="https://webpack.js.org/guides/output-management/" target="_blank" rel="noreferrer noopener">Gerenciamento</a></p>
 <p>--><a href="https://webpack.js.org/guides/development/" target="_blank" rel="noreferrer noopener">Desenvolvimento</a></p>
